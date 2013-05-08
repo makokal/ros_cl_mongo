@@ -1,0 +1,16 @@
+<package>
+  <description brief="ros_cl_mongo">
+
+    ROS package for cl-mongo, the common lisp interface to mongodb
+
+  </description>
+  <author>Billy Okal</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/ros_cl_mongo</url>
+  <depend package="roslisp"/>
+  <depend package="lisp_unit"/>
+
+</package>
+
+
